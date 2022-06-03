@@ -29,12 +29,6 @@ namespace CircusTrein2
 
         }
 
-        public Animal(int size, string consumption)
-        {
-            this.Size = size;
-            this.Consumption = consumption;
-        }
-
         /// <summary>
         /// check of dier en ander dier bij elkaar kunnen
         /// </summary>
